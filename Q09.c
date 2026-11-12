@@ -1,4 +1,3 @@
-
 #include<stdio.h>
 
 void readMarks(int *m1, int *m2, int *m3)
