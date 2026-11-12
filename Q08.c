@@ -1,0 +1,1 @@
+since we didn't learn these thing miss told us to leave Q6 and Q9.
